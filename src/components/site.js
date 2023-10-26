@@ -25,8 +25,8 @@ function Site(props) {
 								<span className="span"> Shop now!</span>
 							</p>
 						</div>
-						<p className="heading-hot-tournesol">
-							Hot tournesol Videos in the USA
+						<p className="heading-hot-sunflower">
+							Hot sunflower Videos in the USA
 						</p>
 						<img
 							className="heading"
@@ -2997,7 +2997,7 @@ function Site(props) {
 								<div className="span-activeline" />
 							</div>
 							<div className="list-item-link-143">
-								<div className="tournesol-videos">tournesol VIDEOS</div>
+								<div className="sunflower-videos">sunflower VIDEOS</div>
 								<div className="span-arrow" />
 							</div>
 							<div className="list-item-link-144">
