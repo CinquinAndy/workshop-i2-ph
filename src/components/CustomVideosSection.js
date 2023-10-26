@@ -1,10 +1,10 @@
 import React from 'react'
 import Image from 'next/image'
 import { getContent } from '@/services/getData'
+import { VideoOrMinia } from '@/components/VideoOrMinia'
 
 export async function CustomVideosSection() {
 	const data = await getContent()
-	console.log(data)
 	return (
 		<>
 			<img
@@ -14,20 +14,7 @@ export async function CustomVideosSection() {
 			/>
 			<div className="overlap-group-wrapper">
 				<div className="overlap-group">
-					<div
-						className={
-							'absolute left-0 top-0 flex h-full w-full items-center justify-center'
-						}
-					>
-						<div className={'relative h-full w-full'}>
-							<Image
-								src={`${data[0].minia_url}`}
-								alt={'minia'}
-								fill={true}
-								className={'object-cover object-center'}
-							/>
-						</div>
-					</div>
+					<VideoOrMinia minia={data[0].minia_url} video={data[0].video_url} />
 					{/*<div className="m" />*/}
 					<div className="div-marker-overlays">
 						<div className="variable">
@@ -68,7 +55,8 @@ export async function CustomVideosSection() {
 			/>
 			<div className="overlap-wrapper">
 				<div className="overlap-group">
-					<div className="m-eaftggaaaa-mh" />
+					<VideoOrMinia minia={data[1].minia_url} video={data[1].video_url} />
+					{/*<div className="m-eaftggaaaa-mh" />*/}
 					<div className="variable-wrapper">
 						<div className="variable-2">
 							<div className="text-wrapper-16">9:51</div>
@@ -113,7 +101,8 @@ export async function CustomVideosSection() {
 			/>
 			<div className="list-item-link-14">
 				<div className="overlap-group">
-					<div className="m-eaftggaaaa-mh-2" />
+					<VideoOrMinia minia={data[2].minia_url} video={data[2].video_url} />
+					{/*<div className="m-eaftggaaaa-mh-2" />*/}
 					<div className="div-marker-overlays">
 						<div className="variable">
 							<div className="text-wrapper-14">15:25</div>
@@ -153,7 +142,9 @@ export async function CustomVideosSection() {
 			/>
 			<div className="list-item-link-16">
 				<div className="overlap-group">
-					<div className="m-2" />
+					<VideoOrMinia minia={data[3].minia_url} video={data[3].video_url} />
+
+					{/*<div className="m-2" />*/}
 					<div className="div-marker-overlays-2">
 						<div className="variable-3">
 							<div className="text-wrapper-14">28:49</div>
@@ -203,7 +194,9 @@ export async function CustomVideosSection() {
 			/>
 			<div className="list-item-link-18">
 				<div className="overlap-group">
-					<div className="m-qm-tmxybeaftggaaaa" />
+					<VideoOrMinia minia={data[4].minia_url} video={data[4].video_url} />
+
+					{/*<div className="m-qm-tmxybeaftggaaaa" />*/}
 					<div className="div-marker-overlays">
 						<div className="variable">
 							<div className="text-wrapper-14">21:31</div>
@@ -243,7 +236,9 @@ export async function CustomVideosSection() {
 			/>
 			<div className="list-item-link-20">
 				<div className="overlap-group">
-					<div className="m-eaftggaaaa-mh-3" />
+					<VideoOrMinia minia={data[5].minia_url} video={data[5].video_url} />
+
+					{/*<div className="m-eaftggaaaa-mh-3" />*/}
 					<div className="variable-wrapper">
 						<div className="variable-2">
 							<div className="text-wrapper-16">7:04</div>
@@ -283,7 +278,9 @@ export async function CustomVideosSection() {
 			/>
 			<div className="list-item-link-22">
 				<div className="overlap-group">
-					<div className="m-eaftggaaaa-mh-4" />
+					<VideoOrMinia minia={data[6].minia_url} video={data[6].video_url} />
+
+					{/*<div className="m-eaftggaaaa-mh-4" />*/}
 					<div className="variable-wrapper">
 						<div className="variable-2">
 							<div className="text-wrapper-16">6:15</div>
@@ -323,7 +320,9 @@ export async function CustomVideosSection() {
 			/>
 			<div className="list-item-link-24">
 				<div className="overlap-group">
-					<div className="m-2" />
+					<VideoOrMinia minia={data[7].minia_url} video={data[7].video_url} />
+
+					{/*<div className="m-2" />*/}
 					<div className="div-marker-overlays-2">
 						<div className="variable-3">
 							<div className="text-wrapper-14">29:19</div>
@@ -373,7 +372,9 @@ export async function CustomVideosSection() {
 			/>
 			<div className="list-item-link-26">
 				<div className="overlap-group">
-					<div className="m-eaftggaaaa-mh-5" />
+					<VideoOrMinia minia={data[8].minia_url} video={data[8].video_url} />
+
+					{/*<div className="m-eaftggaaaa-mh-5" />*/}
 					<div className="div-marker-overlays">
 						<div className="variable">
 							<div className="text-wrapper-14">14:53</div>
@@ -413,7 +414,8 @@ export async function CustomVideosSection() {
 			/>
 			<div className="list-item-link-28">
 				<div className="overlap-group">
-					<div className="m-eaftggaaaa-mh-wz" />
+					<VideoOrMinia minia={data[9].minia_url} video={data[9].video_url} />
+					{/*<div className="m-eaftggaaaa-mh-wz" />*/}
 					<div className="div-marker-overlays">
 						<div className="variable">
 							<div className="text-wrapper-14">23:36</div>
@@ -453,7 +455,9 @@ export async function CustomVideosSection() {
 			/>
 			<div className="list-item-link-30">
 				<div className="overlap-group">
-					<div className="m-qryglxybeaftggaaaa" />
+					<VideoOrMinia minia={data[10].minia_url} video={data[10].video_url} />
+
+					{/*<div className="m-qryglxybeaftggaaaa" />*/}
 					<div className="div-marker-overlays">
 						<div className="variable">
 							<div className="text-wrapper-14">13:27</div>
