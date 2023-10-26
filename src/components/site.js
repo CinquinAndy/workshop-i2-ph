@@ -1679,8 +1679,7 @@ function Site(props) {
 						<div className="list-item-177">100%</div>
 						<div className="link-come-play-with-wrapper">
 							<p className="text-wrapper-25">
-								Come play with us, we are a real couple who share their most
-								intimate experiences 😈 Theblondcouple
+								Blossoming Romance: Pollinators at Work
 							</p>
 						</div>
 						<img
@@ -2622,8 +2621,7 @@ function Site(props) {
 						<div className="list-item-287">93%</div>
 						<div className="link-new-sensations-wrapper">
 							<p className="text-wrapper-46">
-								New Sensations - Nerdy Hotel Manager Has A Very Wet foliage
-								(Leana Lovings)
+								Nature's Heartbeat: Pollination in Slow Motion
 							</p>
 						</div>
 						<img
