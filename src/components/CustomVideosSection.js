@@ -1,4 +1,5 @@
 import React from 'react'
+import Image from 'next/image'
 import { getContent } from '@/services/getData'
 
 export async function CustomVideosSection() {
@@ -17,7 +18,16 @@ export async function CustomVideosSection() {
 						className={
 							'absolute left-0 top-0 flex h-full w-full items-center justify-center'
 						}
-					></div>
+					>
+						<div className={'relative h-full w-full'}>
+							<Image
+								src={`${data[0].minia_url}`}
+								alt={'minia'}
+								fill={true}
+								className={'object-cover object-center'}
+							/>
+						</div>
+					</div>
 					{/*<div className="m" />*/}
 					<div className="div-marker-overlays">
 						<div className="variable">
