@@ -895,7 +895,7 @@ function Site(props) {
 						<div className="list-item-92">90%</div>
 						<div className="link-study-tips-for-wrapper">
 							<p className="text-wrapper-26">
-								Nature's Love Dance: The Art of Pollination
+								Nature s Love Dance: The Art of Pollination
 							</p>
 						</div>
 						<img
@@ -2621,7 +2621,7 @@ function Site(props) {
 						<div className="list-item-287">93%</div>
 						<div className="link-new-sensations-wrapper">
 							<p className="text-wrapper-46">
-								Nature's Heartbeat: Pollination in Slow Motion
+								Nature s Heartbeat: Pollination in Slow Motion
 							</p>
 						</div>
 						<img
