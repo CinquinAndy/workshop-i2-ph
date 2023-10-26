@@ -215,11 +215,7 @@ function Site(props) {
 										<div className="span-phfreetext">
 											<div className="text-wrapper-20">Free</div>
 										</div>
-										<img
-											className="SVG"
-											alt="Svg"
-											src="https://cdn.animaapp.com/projects/653916e56ce58c258174905b/releases/65391751a9201e96f4b7651e/img/svg.svg"
-										/>
+										<img className="SVG" alt="Svg" src="stars.png" />
 									</div>
 								</div>
 							</div>
@@ -398,11 +394,7 @@ function Site(props) {
 										<div className="span-phfreetext">
 											<div className="text-wrapper-20">Free</div>
 										</div>
-										<img
-											className="SVG"
-											alt="Svg"
-											src="https://cdn.animaapp.com/projects/653916e56ce58c258174905b/releases/65391751a9201e96f4b7651e/img/svg-1.svg"
-										/>
+										<img className="SVG" alt="Svg" src="stars.png" />
 									</div>
 								</div>
 							</div>
@@ -620,11 +612,7 @@ function Site(props) {
 										<div className="span-phfreetext">
 											<div className="text-wrapper-20">Free</div>
 										</div>
-										<img
-											className="SVG"
-											alt="Svg"
-											src="https://cdn.animaapp.com/projects/653916e56ce58c258174905b/releases/65391751a9201e96f4b7651e/img/svg-2.svg"
-										/>
+										<img className="SVG" alt="Svg" src="stars.png" />
 									</div>
 								</div>
 							</div>
@@ -673,11 +661,7 @@ function Site(props) {
 										<div className="span-phfreetext">
 											<div className="text-wrapper-20">Free</div>
 										</div>
-										<img
-											className="SVG"
-											alt="Svg"
-											src="https://cdn.animaapp.com/projects/653916e56ce58c258174905b/releases/65391751a9201e96f4b7651e/img/svg-3.svg"
-										/>
+										<img className="SVG" alt="Svg" src="stars.png" />
 									</div>
 								</div>
 							</div>
@@ -1103,11 +1087,7 @@ function Site(props) {
 										<div className="span-phfreetext">
 											<div className="text-wrapper-20">Free</div>
 										</div>
-										<img
-											className="SVG"
-											alt="Svg"
-											src="https://cdn.animaapp.com/projects/653916e56ce58c258174905b/releases/65391751a9201e96f4b7651e/img/svg-4.svg"
-										/>
+										<img className="SVG" alt="Svg" src="stars.png" />
 									</div>
 								</div>
 							</div>
@@ -1169,11 +1149,7 @@ function Site(props) {
 										<div className="span-phfreetext">
 											<div className="text-wrapper-20">Free</div>
 										</div>
-										<img
-											className="SVG"
-											alt="Svg"
-											src="https://cdn.animaapp.com/projects/653916e56ce58c258174905b/releases/65391751a9201e96f4b7651e/img/svg-5.svg"
-										/>
+										<img className="SVG" alt="Svg" src="stars.png" />
 									</div>
 								</div>
 							</div>
@@ -1222,11 +1198,7 @@ function Site(props) {
 										<div className="span-phfreetext">
 											<div className="text-wrapper-20">Free</div>
 										</div>
-										<img
-											className="SVG"
-											alt="Svg"
-											src="https://cdn.animaapp.com/projects/653916e56ce58c258174905b/releases/65391751a9201e96f4b7651e/img/svg-6.svg"
-										/>
+										<img className="SVG" alt="Svg" src="stars.png" />
 									</div>
 								</div>
 							</div>
@@ -1275,11 +1247,7 @@ function Site(props) {
 										<div className="span-phfreetext">
 											<div className="text-wrapper-20">Free</div>
 										</div>
-										<img
-											className="SVG"
-											alt="Svg"
-											src="https://cdn.animaapp.com/projects/653916e56ce58c258174905b/releases/65391751a9201e96f4b7651e/img/svg-7.svg"
-										/>
+										<img className="SVG" alt="Svg" src="stars.png" />
 									</div>
 								</div>
 							</div>
@@ -1333,11 +1301,7 @@ function Site(props) {
 										<div className="span-phfreetext">
 											<div className="text-wrapper-20">Free</div>
 										</div>
-										<img
-											className="SVG"
-											alt="Svg"
-											src="https://cdn.animaapp.com/projects/653916e56ce58c258174905b/releases/65391751a9201e96f4b7651e/img/svg-8.svg"
-										/>
+										<img className="SVG" alt="Svg" src="stars.png" />
 									</div>
 								</div>
 							</div>
@@ -1476,11 +1440,7 @@ function Site(props) {
 										<div className="span-phfreetext">
 											<div className="text-wrapper-20">Free</div>
 										</div>
-										<img
-											className="SVG"
-											alt="Svg"
-											src="https://cdn.animaapp.com/projects/653916e56ce58c258174905b/releases/65391751a9201e96f4b7651e/img/svg-9.svg"
-										/>
+										<img className="SVG" alt="Svg" src="stars.png" />
 									</div>
 								</div>
 							</div>
@@ -1781,11 +1741,7 @@ function Site(props) {
 										<div className="span-phfreetext">
 											<div className="text-wrapper-20">Free</div>
 										</div>
-										<img
-											className="SVG"
-											alt="Svg"
-											src="https://cdn.animaapp.com/projects/653916e56ce58c258174905b/releases/65391751a9201e96f4b7651e/img/svg-10.svg"
-										/>
+										<img className="SVG" alt="Svg" src="stars.png" />
 									</div>
 								</div>
 							</div>
