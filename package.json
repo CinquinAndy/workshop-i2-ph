@@ -18,7 +18,7 @@
 		]
 	},
 	"dependencies": {
-		"@headlessui/react": "1.7.17",
+		"@headlessui/react": "1.7.19",
 		"@hookform/resolvers": "3.3.2",
 		"next": "14.2.6",
 		"postcss": "8.4.31",
