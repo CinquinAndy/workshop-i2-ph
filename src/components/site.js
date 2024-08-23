@@ -1,3 +1,4 @@
+'use client'
 import React from 'react'
 import { CustomVideosSection } from '@/components/CustomVideosSection'
 
@@ -59,9 +60,7 @@ function Site(props) {
 								<div className="text-wrapper-13">octavia red</div>
 							</div>
 						</div>
-
 						<CustomVideosSection props={props} />
-
 						<img
 							className="list-item-56"
 							alt="List item"
