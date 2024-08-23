@@ -1,9 +1,9 @@
 'use client'
 import Image from 'next/image'
-import React from 'react'
+import { useState } from 'react'
 
 export function VideoOrMinia({ minia, video }) {
-	const [isHover, setIsHover] = React.useState(false)
+	const [isHover, setIsHover] = useState(false)
 
 	const handleMouseEnter = () => {
 		setIsHover(true)

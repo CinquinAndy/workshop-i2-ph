@@ -1,5 +1,4 @@
 'use client'
-import React from 'react'
 import { CustomVideosSection } from '@/components/CustomVideosSection'
 
 function Site(props) {
